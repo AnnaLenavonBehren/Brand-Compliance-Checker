@@ -24,7 +24,12 @@ It uses Ollama Mistral and OpenAI GPT-4o-mini to extract key information from yo
    docker compose up --build
    ```
 
-5. Visit [http://localhost:8501/](http://localhost:8501/) to open the Web UI
+5. Visit [http://localhost:8501/](http://localhost:8501/) to open the Web UI  
+
+
+**Note:**  
+Ensure that you have a running installation of [Docker](https://docs.docker.com/get-started/get-docker/) and [Ollama](https://ollama.com/download) on your PC.  
+
 
 ## Usage
 
