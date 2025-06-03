@@ -1,0 +1,4 @@
+Please return whether the provided image fulfills the given requirement for the PRIMARY colors used in that image.
+It is only important, that the most prominent colors match the provided color codes.
+Accept minor deviations from the actual colors, they only have to match approximately.
+        

@@ -1,0 +1,4 @@
+Please return whether the provided image fulfills the given requirement regarding the logo safe zone.
+You should find the logo within the image, use the information about the company's name, if you have it.
+Determine, if the logo is far enough from the nearest text and images. Use your context information regarding the safe zone size.
+        

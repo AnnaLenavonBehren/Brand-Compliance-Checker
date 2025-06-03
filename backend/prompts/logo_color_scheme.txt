@@ -1,0 +1,9 @@
+Please first identify the logo within the image from the company name that you know.
+The logo usually includes the company's name, usually a symbol right next to it, but no other text or images.
+
+Only analyze the company name and small symbols next to it, ignore ALL TEXT, that is NOT the company's name, ignore the entire rest of the image!
+
+- Use the full list of hex codes provided in the color palette (including secondary ones).
+- Check if the logo's colors are from this palette, but ACCEPT SMALL DEVIATIONS from the actual codes, as well as gradients.
+- Return 1 if the logo colors approximately match the palette; 0 otherwise.
+- If unsure, make your best guess.

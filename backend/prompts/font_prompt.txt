@@ -1,0 +1,3 @@
+Please return whether the text in the provided image fulfills the given requirement for the font styles provided in the style guide.
+Only analyze the fonts used for texts, that are not the company's name.
+If you cannot recognize the font exactly, guess from common font characteristics and answer to the best of your knowledge.
