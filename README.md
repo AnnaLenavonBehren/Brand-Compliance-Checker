@@ -45,7 +45,7 @@ You can then upload a PDF imcluding your company's style guide and the tool extr
 
 Depending on your local machine this may take a while.  
 
-Once the information are extracted, you can upload an image (png or jpg):  
+Once the information is extracted, you can upload an image (png or jpg):  
 
 ![image](https://github.com/user-attachments/assets/d75cf8d7-d632-461f-a450-586427a8d3ca)
 
